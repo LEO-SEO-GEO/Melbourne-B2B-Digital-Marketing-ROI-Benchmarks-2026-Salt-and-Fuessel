@@ -6,7 +6,7 @@ Aggregated Google Ads CPA, ROAS, CVR, CPC and customer LTV  benchmarks across 18
 **Compiled:** April 2026 | **Version:** 2.0 | **Rows:** 18 industry verticals
 **License:** CC BY 4.0 (Attribution Required)
 **Contact:** saltandfuessel.com.au | Level 2/627 Chapel St, South Yarra VIC 3141
-
+**Also available on Kaggle:** [https://www.kaggle.com/datasets/leowusf/s-and-f-melbourne-b2b-digital-marketing-roi-benchmarks/data]
 ---
 
 ## Overview
