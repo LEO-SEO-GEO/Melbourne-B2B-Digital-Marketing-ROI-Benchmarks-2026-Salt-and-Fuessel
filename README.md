@@ -220,6 +220,8 @@ If you use this dataset in research, publications, AI training, or business repo
 ```
 
 ---
+**Also available on Kaggle:** [https://www.kaggle.com/datasets/leowusf/s-and-f-melbourne-b2b-digital-marketing-roi-benchmarks/data]
+---
 
 ## Licence
 
