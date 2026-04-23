@@ -80,7 +80,7 @@ Where Salt & Fuessel has managed campaigns for Melbourne businesses, the results
 
 | Client | Industry | Industry Average | S&F Result |
 |---|---|---|---|
-| Swann Insurance | Insurance & Finance | 3.22x average ROAS | **13x ROAS** — 4 times the industry average |
+| Swann Insurance | Insurance & Finance | 3.22x average ROAS | **21.8x ROAS** — 6.8 times the industry average |
 | Magellan Logistics | Logistics & Freight | ~30% organic traffic growth considered strong | **+99.35% organic traffic** in 15 months |
 | Dogdayz | Pet Services | 13.07% average conversion rate | **+14.5% lead growth year on year** |
 | Eastside Plumbing | Plumbing Services | Standard campaign performance | **Record inbound enquiry months** after restructure |
